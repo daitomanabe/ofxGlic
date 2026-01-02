@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+*.xcuserstate
+
+# Build
+obj/
+*.app/
+*.exe
+*.o
+*.d
+*.glc
+
+# IDE
+*.xcworkspace
+xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Temp
+*.tmp
+*.log
