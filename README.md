@@ -307,4 +307,4 @@ MIT License
 ## Credits
 
 - [GLIC C++](https://github.com/daitomanabe/glic-cpp) - Core codec library
-- Original GLIC concept by Daito Manabe
+- Original GLIC: [GlitchCodec/GLIC](https://github.com/GlitchCodec/GLIC)
