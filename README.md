@@ -1,5 +1,7 @@
 # ofxGlic
 
+![ofxGlic Screenshot](screenshot.png)
+
 openFrameworks addon for [GLIC (GLitch Image Codec)](https://github.com/daitomanabe/glic-cpp) - a creative image codec designed for generating glitch art effects.
 
 ## Overview
